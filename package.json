@@ -19,6 +19,7 @@
     "gulp-concat": "^2.6.0",
     "gulp-imagemin": "^3.0.1",
     "gulp-jsmin": "^0.1.5",
+    "gulp-sprite-generator": "^0.2.3",
     "gulp-util": "^3.0.7",
     "karma": "^0.13.22"
   }
